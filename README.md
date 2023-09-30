@@ -3,7 +3,7 @@
 
 ## 📑 Where to find me
 
-- [Portfolio](d4n-portfolio.netlify.app)
+- [Portfolio](d4n-portfolio.netlify.app)🛰
 - [YouTube](https://www.youtube.com/c/)
 - [Discord](https://discord.com/invite/ebEdpuFz)
 - [Twitter](https://twitter.com/)
