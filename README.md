@@ -8,7 +8,7 @@
 - [Discord](https://discord.com/invite/ebEdpuFz)
 - [Twitter](https://twitter.com/)
 - [Instagram](https://www.instagram.com/d4n_4rt/)
-- [Redbubble](redbubble.com/es/shop/ap/149540045)
+- [Redbubble](https://www.redbubble.com/people/D4rkDan/shop?asc=u)
 - [DarkHub](darkdan.ihostfull.com)
 - [DarkDan Store](e-commercedd.netlify.app)
 - [Threejs Portfolio](darkdan.byethost32.com)
