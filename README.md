@@ -16,7 +16,7 @@
 - [DarkHub](darkdan.ihostfull.com)
 - [DarkDan Store](e-commercedd.netlify.app)
 - [Threejs Portfolio](darkdan.byethost32.com)
-- [LinkedIn](linkedin.com/in/d4nielleon)
+- [LinkedIn](linkedin.com/in/d4nielleon)<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linux" width="20" height="20"/>
 - [Arstation](artstation.com/d4rkd4n)
 - [Portfolio React](darkdan.netlify.app)
 - [Three Portfolio](3danjs.netlify.app)
@@ -34,6 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="inkscape" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </p>
 - I primarily use Html, CSS, JavaScript, Tailwind. 
 - Framework's I like Astro, React, Nextjs, nodejs, express
