@@ -4,30 +4,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkyxz&langs_count=3&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=darkyxz&theme=radical&mode=weekly" />
 </a>
-<link rel="stylesheet" href="assets/css/styles.css">
-<div class="card">
-            <div class="card__container">
-                <article class="card__article">
-                    <div class="card__data">
-                        <img src="assets/img/img1.png" alt="card image" class="card__img">
-    
-                        <h1 class="card__title">Shield & Shining Star</h1>
-                        <p class="card__description">Beautiful card, with hover effects</p>
-                    </div>
-    
-                    <div class="card__shapes">
-                        <span class="card__shape"></span>
-                        <span class="card__shape"></span>
-                        <span class="card__shape"></span>
-                        <span class="card__shape"></span>
-                        <span class="card__shape"></span>
-                        <span class="card__shape"></span>
-                        <span class="card__shape"></span>
-                        <span class="card__shape"></span>
-                    </div>
-                </article>
-            </di>
-  </div>
 
 ## 📑 Where to find me
 
