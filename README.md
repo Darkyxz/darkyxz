@@ -26,8 +26,8 @@
                         <span class="card__shape"></span>
                     </div>
                 </article>
-              </di>
-            </div>
+            </di>
+  </div>
 
 ## 📑 Where to find me
 
