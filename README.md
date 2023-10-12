@@ -15,7 +15,7 @@
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://www.d4n-portfolio.netlify.app)
+- Personal website [link](https://d4n-portfolio.netlify.app)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/darkdan)
 
 <br><br>
