@@ -154,10 +154,6 @@
 
 </div>
 <br>
-<br>
-<br>
-<br>
-
 ---
 
 <br>
@@ -165,12 +161,6 @@
 Credit: [Daniel Leon](https://github.com/darkyxz)
 
 Last Edited on: 09/11/2022
-### 
-<a href="darkdan.netlify.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkyxz&line_height=40&hide=contribs,prs&show_icons=true&count_private=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkyxz&langs_count=3&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=darkyxz&theme=radical&mode=weekly" />
-</a>
 
 ## 📑 Where to find me
 
@@ -207,4 +197,4 @@ Last Edited on: 09/11/2022
 **Darkyxz/darkyxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
-[![HitCount](http://hits.dwyl.com/darkyxz/darkyxz.svg)](http://hits.dwyl.com/darkyxz/darkyxz)
+ [![HitCount](https://hits.dwyl.com/darkyxz/darkyxz.svg?style=flat-square&show=unique)](http://hits.dwyl.com/darkyxz/darkyxz)
