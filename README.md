@@ -28,8 +28,9 @@
 <p align="center">
 
 - **Languages**:
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="python" width="40" height="40"/>
+  	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+     	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+   	 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
 <br>   
     
@@ -62,9 +63,9 @@
 </p>
 
 - **Softwares and Tools**:
-- https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg
-- https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg
-    https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg
+  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msdos/msdos-original.svg" alt="nodejs" width="40" height="40"/>
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
