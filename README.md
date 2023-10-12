@@ -94,12 +94,12 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/darkyxz/">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkyxz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkyxz&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="darkyxz"/>
+<a href="darkdan.netlify.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkyxz&line_height=40&hide=contribs,prs&show_icons=true&count_private=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkyxz&langs_count=3&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=darkyxz&theme=radical&mode=weekly" />
 </a>
+
 </div>
 
 <br>
