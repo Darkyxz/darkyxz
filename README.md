@@ -178,7 +178,8 @@ Last Edited on: 09/11/2022
 - [Portfolio React](darkdan.netlify.app)
 - [Three Portfolio](3danjs.netlify.app)
 
-
+---
+ [![HitCount](https://hits.dwyl.com/darkyxz/darkyxz.svg?style=flat-square&show=unique)](http://hits.dwyl.com/darkyxz/darkyxz)
 ## 🥰 Support my work
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L8K1MRO)
 
@@ -196,5 +197,4 @@ Last Edited on: 09/11/2022
 <!--
 **Darkyxz/darkyxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
- [![HitCount](https://hits.dwyl.com/darkyxz/darkyxz.svg?style=flat-square&show=unique)](http://hits.dwyl.com/darkyxz/darkyxz)
+
