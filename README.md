@@ -165,7 +165,7 @@ Last Edited on: 12/10/2023
 
 | BTC | ETH |
 | --- | --- |
-|<center>![BTC](https://github.com/Darkyxz/darkyxz/blob/main/assets/img/btcwallet.png)<br/>[3DTZUbv7x5FdzM5gM8KokNAvTWUru9Zjw3](bitcoin:3DTZUbv7x5FdzM5gM8KokNAvTWUru9Zjw3)</center> | <center>![ETH](https://github.com/Darkyxz/darkyxz/blob/main/assets/img/ETHwallet.png)<br/>[0xa87D45F99226669052f9b537F1e075f76ff48dC6](etherium:0xa87D45F99226669052f9b537F1e075f76ff48dC6)</center> |
+|<center>![BTC](https://github.com/Darkyxz/darkyxz/blob/main/assets/img/btcwallet.png)<br/>[3DTZUbv7x5FdzM5gM8KokNAvTWUru9Zjw3](bitcoin:3DTZUbv7x5FdzM5gM8KokNAvTWUru9Zjw3)</center>  | <center>![ETH](https://github.com/Darkyxz/darkyxz/blob/main/assets/img/ETHwallet.png)<br/>[0xa87D45F99226669052f9b537F1e075f76ff48dC6](etherium:0xa87D45F99226669052f9b537F1e075f76ff48dC6)</center> |
  ## Systems
  - Windows
  - <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/> </a>
