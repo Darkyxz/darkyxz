@@ -163,7 +163,9 @@ Last Edited on: 12/10/2023
 ## 🥰 Support my work
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L8K1MRO)
 
-
+| BTC | ETH |
+| --- | --- |
+|  | <center>![ETH](https://github.com/darkyxz/darkyxz/assets/img/ETH.png)<br/>[0xa87D45F99226669052f9b537F1e075f76ff48dC6](etherium:0xa87D45F99226669052f9b537F1e075f76ff48dC6)</center> |
  ## Systems
  - Windows
  - <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/> </a>
