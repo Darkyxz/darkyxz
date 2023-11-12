@@ -10,8 +10,8 @@
 	  </a>
 	</div>
 	<div style="width: 30%;">
-	  <a href="https://github.com/darkyxz/darkyxz/blame/main/led.svg">
-	    <img src="led.svg" style="width: 300px;" alt="Click to see the source">
+	  <a href="https://github.com/darkyxz/darkyxz/blame/main/led_welcome.svg">
+	    <img src="led_welcome.svg" style="width: 300px;" alt="Click to see the source">
 	  </a>
 	</div>
 	<div style="width: 30%;">
