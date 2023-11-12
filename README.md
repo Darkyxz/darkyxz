@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi there 👋 I'm Darkyxz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" rel="noreferrer"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" rel="noreferrer"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Siempre+es+Hoy+by+the+way...&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3 "></a>
+  <a href="https://github.com/darkyxz" rel="noreferrer"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Siempre+es+Hoy+by+the+way...&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3 "></a>
 </p>
 <div style="width: 100%;">
   <a href="https://github.com/darkyxz/darkyxz/blame/main/matrix.svg">
