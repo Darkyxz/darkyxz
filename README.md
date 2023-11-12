@@ -2,18 +2,23 @@
 <!--  -->
 <p align="center">
 <a href="[https://git.io/typing-svg](https://github.com/darkyxz)"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=18&pause=3000&color=8F46BB&multiline=true&repeat=false&random=false&width=600&height=60&lines=Self-taught+Front-End-Developer%2C+Computer+Science+Student%2C+;CTF+Newbie%2C+Active+Learner%2FResearcher%2C+Love+to+learn+new+stuffs.." alt="Typing SVG" /></a>
-</a>
 </p>
-<div style="display:flex-inline">
-<div style="width: 30%;">
-  <a href="https://github.com/darkyxz/darkyxz/blame/main/matrix.svg">
-    <img src="matrix.svg" style="width: 100px;" alt="Click to see the source">
-  </a>
-</div>
-<div style="width: 30%;">
-  <a href="https://github.com/darkyxz/darkyxz/blame/main/name.svg">
-    <img src="name.svg" style="width: 300px;" alt="Click to see the source">
-  </a>
+<div style="display: flex-inline">
+	<div style="width: 30%;">
+	  <a href="https://github.com/darkyxz/darkyxz/blame/main/matrix.svg">
+	    <img src="matrix.svg" style="width: 100px;" alt="Click to see the source">
+	  </a>
+	</div>
+	<div style="width: 30%;">
+	  <a href="https://github.com/darkyxz/darkyxz/blame/main/led.svg">
+	    <img src="led.svg" style="width: 300px;" alt="Click to see the source">
+	  </a>
+	</div>
+	<div style="width: 30%;">
+	  <a href="https://github.com/darkyxz/darkyxz/blame/main/name.svg">
+	    <img src="name.svg" style="width: 300px;" alt="Click to see the source">
+	  </a>
+	</div>
 </div>
 <br>
 	
