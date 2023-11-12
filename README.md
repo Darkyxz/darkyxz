@@ -5,7 +5,7 @@
 </p>
 <div style="width: 30%;">
   <a href="https://github.com/darkyxz/darkyxz/blame/main/matrix.svg">
-    <img src="matrix.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="matrix.svg" style="width: 100px;" alt="Click to see the source">
   </a>
 </div>
 <br>
