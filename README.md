@@ -3,49 +3,48 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" rel="noreferrer"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Siempre+es+Hoy+by+the+way...&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3 "></a>
 </p>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" height="20mm" width="30mm"
-    xmlns:xlink="http://www.w3.org/1999/xlink">
-    <style type="text/css">
-        .led {
-            fill: var(--pixel-color, rgb(53, 244, 53));
-            animation: led-offset 4s steps(20, jump-end) infinite;
-            offset-path: path('M7.5 8H7M5 9V3M10 18H8M15 6.5V13');
-            offset-distance: 0%;
-        }
-
-        @keyframes led-offset {
-            from {
-                offset-distance: 0%;
-            }
-
-            to {
-                offset-distance: 100%;
-            }
-        }
-    </style>
-    <defs>
-        <pattern id="background" width="2.5" height="2.5" patternUnits="userSpaceOnUse">
-            <rect width="2.5" height="2.5" />
-            <circle cx="1.25" cy="1.25" r="0.9" fill="#444" />
-        </pattern>
-        <path id="pinl" fill="#c6bf95" 
-            d="m7.02-0.39h-7.02a0.39 0.39 0 0 0-0.37 0.39 0.39 0.39 0 0 0 0.37 0.39v0h7.02z" />
-        <path id="pinr" fill="#c6bf95"
-            d="m-7.02-0.39h7.02a0.39 0.39 0 0 1 0.37 0.39 0.39 0.39 0 0 1-0.37 0.39v0h-7.02z" />
-    </defs>
-    <use xlink:href="#pinl" x="0.53" y="4.92" />
-    <use xlink:href="#pinl" x="0.53" y="7.46" />
-    <use xlink:href="#pinl" x="0.53" y="10" />
-    <use xlink:href="#pinl" x="0.53" y="12.54" />
-    <use xlink:href="#pinl" x="0.53" y="15.08" />
-    <use xlink:href="#pinr" x="29.47" y="4.92" />
-    <use xlink:href="#pinr" x="29.47" y="7.46" />
-    <use xlink:href="#pinr" x="29.47" y="10" />
-    <use xlink:href="#pinr" x="29.47" y="12.54" />
-    <use xlink:href="#pinr" x="29.47" y="15.08" />
-    <rect x="5" width="20" height="20" fill="url(#background)" />
-    <circle cx="1.25" cy="1.25" r="0.9" fill="red" class="led" />
-</svg>
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" height="20mm" width="30mm" xmlns:xlink="http://www.w3.org/1999/xlink">
+	    <style type="text/css">
+	        .led {
+	            fill: var(--pixel-color, rgb(53, 244, 53));
+	            animation: led-offset 4s steps(20, jump-end) infinite;
+	            offset-path: path('M7.5 8H7M5 9V3M10 18H8M15 6.5V13');
+	            offset-distance: 0%;
+	        }
+	
+	        @keyframes led-offset {
+	            from {
+	                offset-distance: 0%;
+	            }
+	
+	            to {
+	                offset-distance: 100%;
+	            }
+	        }
+	    </style>
+	    <defs>
+	        <pattern id="background" width="2.5" height="2.5" patternUnits="userSpaceOnUse">
+	            <rect width="2.5" height="2.5" />
+	            <circle cx="1.25" cy="1.25" r="0.9" fill="#444" />
+	        </pattern>
+	        <path id="pinl" fill="#c6bf95" 
+	            d="m7.02-0.39h-7.02a0.39 0.39 0 0 0-0.37 0.39 0.39 0.39 0 0 0 0.37 0.39v0h7.02z" />
+	        <path id="pinr" fill="#c6bf95"
+	            d="m-7.02-0.39h7.02a0.39 0.39 0 0 1 0.37 0.39 0.39 0.39 0 0 1-0.37 0.39v0h-7.02z" />
+	    </defs>
+	    <use xlink:href="#pinl" x="0.53" y="4.92" />
+	    <use xlink:href="#pinl" x="0.53" y="7.46" />
+	    <use xlink:href="#pinl" x="0.53" y="10" />
+	    <use xlink:href="#pinl" x="0.53" y="12.54" />
+	    <use xlink:href="#pinl" x="0.53" y="15.08" />
+	    <use xlink:href="#pinr" x="29.47" y="4.92" />
+	    <use xlink:href="#pinr" x="29.47" y="7.46" />
+	    <use xlink:href="#pinr" x="29.47" y="10" />
+	    <use xlink:href="#pinr" x="29.47" y="12.54" />
+	    <use xlink:href="#pinr" x="29.47" y="15.08" />
+	    <rect x="5" width="20" height="20" fill="url(#background)" />
+	    <circle cx="1.25" cy="1.25" r="0.9" fill="red" class="led" />
+	</svg>
 <br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
