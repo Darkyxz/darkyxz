@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/darkyxz" rel="noreferrer"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Siempre+es+Hoy+by+the+way...&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3 "></a>
 </p>
-<div style="width: 100%;">
+<div style="width: 30%;">
   <a href="https://github.com/darkyxz/darkyxz/blame/main/matrix.svg">
     <img src="matrix.svg" style="width: 100%;" alt="Click to see the source">
   </a>
