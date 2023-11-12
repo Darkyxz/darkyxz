@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi there 👋 I'm Darkyxz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" rel="noreferrer"></h1>
 <!--  -->
 <p align="center">
-<a href="[https://git.io/typing-svg](https://github.com/darkyxz)"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=31&pause=3000&color=8F46BB&multiline=true&random=false&width=435&lines=+Self-taught+Front-End-Developer%2C+Computer+Science+Student%2C+CTF+Newbie%2C+Active+Learner%2FResearcher%2C+Love+to+learn+new+stuffs.." alt="Typing SVG" /></a>
+<a href="[https://git.io/typing-svg](https://github.com/darkyxz)"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=18&pause=3000&color=8F46BB&multiline=true&repeat=false&random=false&width=600&height=60&lines=Self-taught+Front-End-Developer%2C+Computer+Science+Student%2C+;CTF+Newbie%2C+Active+Learner%2FResearcher%2C+Love+to+learn+new+stuffs.." alt="Typing SVG" /></a>
 </a>
 </p>
 <div style="display:flex-inline">
