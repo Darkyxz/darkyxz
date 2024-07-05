@@ -89,7 +89,7 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 	<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-	<a href="https://readme-jokes.vercel.app" rel="noreferrer"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes watermelon"></a>
+	<a href="https://readme-jokes.vercel.app" rel="noreferrer"><img align="center" src="https://readme-jokes.vercel.app/api?watermelon" alt="README Jokes watermelon"></a>
 	</p>
 
 <br>
